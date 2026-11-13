@@ -230,3 +230,8 @@ h2 em, h1 em { color: var(--cyan); font-style: normal; }
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
   .reveal { opacity: 1; transform: none; }
 }
+
+.faq-ref {
+  margin-top: 16px;
+  font-size: 0.92rem;
+}
